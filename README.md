@@ -15,6 +15,3 @@ I am a full stack developer with a strong foundation in both front-end and back-
 ![HHKB](https://www.hhkeyboard.com/_assets/images/header-images/hhkb_logo.png)
 
 ---
-
-
-**<span>Click to contact me via mail:</span><a href = "mailto: josipbegic57@gmail.com">`josipbegic57@gmail.com`</a>**
