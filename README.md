@@ -1,7 +1,7 @@
 # 🦉 Josip Begić
 **`Software developer`**
 
-I am a full stack developer with a strong foundation in both front-end and back-end development. Currently, I am pursuing my studies at FER (Faculty of Electrical Engineering and Computing), where I am improving my technical skills. My passion lies in creating innovative web applications that are easy to use with inovative user experiences with great efficiency.
+I am a software developer with a strong foundation in both front-end and back-end development. Currently, I am pursuing my studies at FER (Faculty of Electrical Engineering and Computing), where I am improving my technical skills. My passion lies in creating innovative web applications that are easy to use with inovative user experiences with great efficiency.
 
 ---
 
