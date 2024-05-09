@@ -34,17 +34,3 @@ I am a software developer with a strong foundation in both front-end and back-en
 	<img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 </div>
 
----
-### Projects
-
-#### <a href="https://chatbee.vercel.app">ChatBee</a> - Chat room application created utilizing ReactJS, TailwindCSS and Firebase.
-#### <a no href="https://github.com/stars/begjosip/lists/moneta">Moneta</a> - Full stack application for stock market tracking. (final thesis project).
-
-
-
----
-
-### Happy Hacking Keyboard owner 
-![HHKB](https://www.hhkeyboard.com/_assets/images/header-images/hhkb_logo.png)
-
----
