@@ -1,8 +1,8 @@
 # 🦉 Josip Begić
 
-**`Software developer`**
+**`Software Engineer`**
 
-I'm a software developer with expertise in both back-end and front-end development. Currently studying at **FER** (
+I'm a software engineer with expertise in both back-end and front-end development. Finishing studies at **FER** (
 Faculty of Electrical Engineering and Computing), focusing on enhancing my technical skills.
 
 ---
